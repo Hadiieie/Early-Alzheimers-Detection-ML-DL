@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Large datasets / MRI
+ALZHEIMER/
+NORMAL/
+OASIS_FREESURFER/
+OASIS_EXPANSION_RAW/
+OASIS_EXPANSION_T1/
+oasis_clean/
+oasis_roi/
+
+# Medical imaging
+*.mgz
+*.mgh
+*.nii
+*.nii.gz
+*.img
+*.hdr
+
+# Model checkpoints
+*.pt
+*.pth
+*.joblib
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Project data / derived metadata
+data_audit/
+*.csv
+oasis_download_ids.txt
+
+# Generated outputs
+results/
+models/
+
+# Local application/output folders
+app/
+
+# OASIS data and derivatives
+oasis_clean/
+oasis_roi/
+OASIS_EXPANSION_RAW/
+OASIS_EXPANSION_T1/
+
+# Local expansion/audit artifacts
+oasis_expansion_*.txt

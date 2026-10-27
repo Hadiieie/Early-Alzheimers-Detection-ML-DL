@@ -1,0 +1,11 @@
+torch
+torchvision
+scikit-learn
+pandas
+numpy
+nibabel
+matplotlib
+Pillow
+streamlit
+joblib
+openpyxl
