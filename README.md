@@ -429,31 +429,6 @@ Future work may include:
 
 ---
 
-# Project Status
-
-Current major components:
-
-```text
-Data Audit                         COMPLETE
-Kaggle Preprocessing               COMPLETE
-OASIS Clinical Integration         COMPLETE
-FreeSurfer / SynthSeg              COMPLETE
-Hippocampus Segmentation           COMPLETE
-Amygdala Feature Extraction        COMPLETE
-CNN / ResNet18                     COMPLETE
-Patient-Level Evaluation           COMPLETE
-Compact MTL-SVM                    COMPLETE
-Nested Cross-Validation            COMPLETE
-Grad-CAM                           COMPLETE
-FreeView Visualization             COMPLETE
-Streamlit Prototype                COMPLETE
-GitHub Preparation                 IN PROGRESS
-Final Report                       NEXT
-Final Presentation                 NEXT
-```
-
----
-
 # Disclaimer
 
 This project is developed for academic and research purposes.
